@@ -1,5 +1,5 @@
 -- ============================================================
--- Kumo Habits by NotoshaDev: Initial Schema Migration
+-- Kumo Habits by MandragoraDev: Initial Schema Migration
 -- Supabase / PostgreSQL
 -- ============================================================
 

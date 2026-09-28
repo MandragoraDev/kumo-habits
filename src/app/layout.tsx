@@ -31,7 +31,7 @@ export const metadata: Metadata = {
     template: '%s | Kumo Habits',
   },
   description:
-    'Rastrea tus hábitos diarios con una experiencia gamificada retro arcade. Visualiza tu progreso mensual, gana XP y mantén tus rachas. by NotoshaDev.',
+    'Rastrea tus hábitos diarios con una experiencia gamificada retro arcade. Visualiza tu progreso mensual, gana XP y mantén tus rachas. by MandragoraDev.',
   keywords: ['habit tracker', 'gamificación', 'productividad', 'hábitos', 'PWA', 'kumo habits'],
   manifest: '/manifest.json',
   icons: {
@@ -53,7 +53,7 @@ export const metadata: Metadata = {
     type: 'website',
     locale: 'es_ES',
     title: 'Kumo Habits — Habit Tracker',
-    description: 'Rastrea tus hábitos diarios con estética suave y minimalista Cake & Cream. by NotoshaDev.',
+    description: 'Rastrea tus hábitos diarios con estética suave y minimalista Cake & Cream. by MandragoraDev.',
     siteName: 'Kumo Habits',
   },
 }

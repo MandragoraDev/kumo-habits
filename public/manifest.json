@@ -1,7 +1,7 @@
 {
   "name": "Kumo Habits",
   "short_name": "Kumo",
-  "description": "Habit Tracker estético y minimalista estilo Cake & Cream by NotoshaDev",
+  "description": "Habit Tracker estético y minimalista estilo Cake & Cream by MandragoraDev",
   "start_url": "/dashboard",
   "id": "/dashboard",
   "scope": "/",

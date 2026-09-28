@@ -3,7 +3,7 @@
 import { useState, useEffect } from 'react'
 import { useRouter } from 'next/navigation'
 import { motion } from 'framer-motion'
-import { Mail, Lock, ArrowRight, KeyRound, UserPlus, Loader2 } from 'lucide-react'
+import { Mail, Lock, ArrowRight, KeyRound, UserPlus, Loader2, CheckCircle2, ShieldAlert } from 'lucide-react'
 import { createClient } from '@/lib/supabase/client'
 import { retroAudio } from '@/lib/sound-effects'
 
@@ -181,7 +181,7 @@ export default function LoginPage() {
                 <span className="text-[#282321]"> Habits</span>
               </h1>
               <p className="text-[10px] text-[#9E928C] font-mono tracking-[0.2em] leading-none mt-0.5 uppercase font-semibold">
-                by NotoshaDev
+                by MandragoraDev
               </p>
             </div>
           </div>

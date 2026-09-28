@@ -131,7 +131,7 @@ function DesktopHeader({
             <span className="text-[#282321]"> Habits</span>
           </h1>
           <p className="font-mono text-[9px] text-[#9E928C] leading-none mt-0.5 tracking-[0.15em] uppercase font-semibold">
-            by NotoshaDev
+            by MandragoraDev
           </p>
         </div>
       </div>
@@ -245,7 +245,7 @@ function MobileHeader({
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#F28574] to-[#EFA93A]">Kumo</span>
             <span className="text-[#3D2E26]"> Habits</span>
           </h1>
-          <p className="font-mono text-[8px] text-[#8C7A70] tracking-wider uppercase leading-none mt-0.5">by NotoshaDev</p>
+          <p className="font-mono text-[8px] text-[#8C7A70] tracking-wider uppercase leading-none mt-0.5">by MandragoraDev</p>
         </div>
       </div>
 
